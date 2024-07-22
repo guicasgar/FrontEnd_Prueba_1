@@ -1,0 +1,9 @@
+[general]
+name=MapHurricane
+description=Complemento para la edición de datos en BBDD de MapHurricane
+about=Complemento desarrollado por Seresco S.A.
+version=0.3.0
+qgisMinimumVersion=3.0
+author=TecnologiaCyC
+email=soportecyc@seresco.es
+repository=desa46:/u/git/MapHurricane_QGIS

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/plugins/MapHurricane" >
+        <file>resources/icon/gear-solid.svg</file>
+        <file>resources/icon/map-regular.svg</file>
+        <file>resources/icon/book-atlas-solid.svg</file>
+        <file>resources/icon/file-export-solid.svg</file>
+		<file>resources/icon/format_image_left.svg</file>
+        <file>resources/icon/logo-bn.png</file>
+        <file>resources/icon/lupa_2.png</file>
+  </qresource>
+</RCC>
